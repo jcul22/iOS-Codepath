@@ -24,7 +24,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/o00BHzjE1O.gif title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://recordit.co/isNEhU4hqH.gif title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
                                                                                                         
                                                                                          
@@ -53,7 +53,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/3yKR9tGkpz.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://recordit.co/isNEhU4hqH.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
@@ -88,7 +88,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthrough GIF
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="http://g.recordit.co/3aXVB3tY6G.gif" width=250><br>
+<img src="http://g.recordit.co/iUI3pfiJOE.gif" width=250><br>
 ## Flix Part 1
 
 ### User Stories
@@ -104,9 +104,9 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-http://g.recordit.co/gggNRrSPyY.gif
+http://g.recordit.co/iUI3pfiJOE.gif
 
-<img src="http://g.recordit.co/gggNRrSPyY.gif" width=250><br>
+<img src="http://g.recordit.co/iUI3pfiJOE.gif" width=250><br>
 
 ### Notes
 I had a hard time adjusting from the videos just because he was going so fast and xCode has changed a lot of things about the way xCode works and looks so it was a lot of experimenting or Googling to get it done.
